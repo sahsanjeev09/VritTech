@@ -1,4 +1,3 @@
-// TestimonialItem.js
 import React from "react";
 
 const TestimonialItem = ({ src, alt, className, style }) => {

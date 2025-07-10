@@ -1,4 +1,3 @@
-// TestimonialHeader.js
 import React from "react";
 
 const TestimonialHeader = () => {
