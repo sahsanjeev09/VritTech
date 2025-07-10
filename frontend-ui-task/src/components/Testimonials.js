@@ -1,10 +1,8 @@
-// Testimonials.js
 import React from "react";
 import "../styles/Testimonials.css";
 import TestimonialHeader from "./TestimonialHeader";
 import TestimonialItem from "./TestimonialItem";
 
-// Image imports (replace with actual paths)
 import User1 from "../images/User1.png";
 import User2 from "../images/User2.png";
 import User3 from "../images/User3.png";
